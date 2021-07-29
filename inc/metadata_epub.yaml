@@ -1,0 +1,31 @@
+---
+ title: 'GATEWAY'
+creator:
+- role: author
+  text: Duncan Stroud
+contributor:
+- role: author
+  text: Jeff Milton
+subtitle: 'Inner Doors to Outer Worlds'
+pubdate: 'July 29, 2021'
+author: Duncan Stroud
+ISBN-10: 1703984900
+ISBN-13: 978-1703984903
+rights: 'Copyright ©2021 Duncan Stroud'
+rights-desc: ''
+status: 'Updated: Wed 28 Jul 2021 11:52:20 PM -03 v0.0.2'
+publisher: 'Welkin Wall Publishing'
+toc: true
+toc-title: 'Table of Contents'
+version:  0.0.1
+cover-image: /home/jw/books/gateway/Images/publish/i6.69x9.61_Front-Only.jpg
+cover: /home/jw/books/gateway/Images/publish/i6.69x9.61_Front-Only.jpg
+subject: philosphy,consciousness,energy,chaos,order,reason,creation,evolution
+#titlepage: false
+lang: en-US
+
+
+# THE FOLLOWING ARE NOT USED
+#pagetitle: 'GATEWAY v0.0.1'
+#series: 1
+...
