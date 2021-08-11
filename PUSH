@@ -1,0 +1,17 @@
+#!/usr/bin/bash
+
+#bin/IMGCLEAN
+
+
+#SCRIPT TO EASILY COMMIT AND PUSH CHANGES TO GITHUB
+
+# import the 2nd ssh-key used fro github
+
+V=`head -1 inc/version.txt`
+export V
+
+eval `ssh-agent`
+ssh-add ~/.ssh/id_rsa2
+
+git commit -a -m "${V} $1"
+git push 
