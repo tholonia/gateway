@@ -8,11 +8,11 @@ ISBN-10: 1703984900
 ISBN-13: 978-1703984903
 rights: 'Copyright ©2021 Duncan Stroud CC BY-NC-SA 4.0'
 rights-desc: 'All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the publisher, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law. For permission requests, write to the author, addressed “Attention: Permission Request,” at the address duncan.stroud@gmail.com.'
-status: 'Updated: Wed 11 Aug 2021 05:34:41 PM -03 v0.2.4'
+status: 'Updated: Wed 25 Aug 2021 09:11:06 PM -03 v0.3.1'
 publisher: 'Welkin Wall Publishing'
 toc: true
 toc-title: 'Table of Contents'
-version:  0.2.4
+version:  0.3.1
 lang: en-US
 
 coverpage: true
