@@ -362,7 +362,7 @@ This MEX certainly seemed Kundalini related, given I was spiralling up and aroun
 > &nbsp;
 > I saw a young woman holding a duck on a sunny morning as she leaned against the wooden post.  Then, an African baby dying of measles but was afflicted with a number of other maladies as well.  He was in a crib of sorts; his skin was more grey than brown.  There were marks and perhaps small growths on his face and body.  The child was suffering, and the parents watched and waited for him to die.
 > &nbsp;
-> To keep my awareness in my body, I began to tap my chest with my finger once a second.  This worked very well, and I was able to create the classic flame eye/star iris tunnel.  Moving through the hole in the eye and into the star-field was the most lucid to date and very clear and smooth. I could see how the stars and flame were the same 'material' in two <img src='../Images/const-1.png' style='float:right; width:10%'>different forms.  Focusing on the violets flame lead me to the stars, and focusing on the stars created more violet flame.  For a while, I was just moved from flame to stars to flame, etc.  There was a very clearly define constellation, but it did not look like any I know, although it has similarities to Cancer, Orion, and others.
+> To keep my awareness in my body, I began to tap my chest with my finger once a second.  This worked very well, and I was able to create the classic flame eye/star iris tunnel.  Moving through the hole in the eye and into the star-field was the most lucid to date and very clear and smooth. I could see how the stars and flame were the same 'material' in two <img src='../Images/const-1.png' style='float:right; width:10%'>different forms.  Focusing on the violets flame lead me to the stars, and focusing on the stars created more violet flame.  For a while, I was just moved from flame to stars to flame, etc.  There was a very clearly define constellation, but it did not look like any I know, although it has similarities to Cancer.
 
 Post notes: FWIW, August 17th, 2006, is the day I had my heart attack as I rode by bike down 17th NYC. I was found in the gutter by a security guard at the emergence room entrance of the hospital I was lucky enough to collapse in from of.
 
@@ -390,7 +390,7 @@ With that in mind, I accept that what I was shown was ***a*** Truth, and even if
 
 **Saturday, August 21, 2021, 10:00**
 
->  Very quickly I caw a very brief , dim, and small light, but this immediately opened to a lucid scene of some men entering a into a large barn in the country followed by a truck of military men arriving and rounding them up. I saw a close up of one of the men the soldiers restrained and he was dark, possibly Indian or middle eastern. 
+>  Very quickly I saw a very brief, dim, and small light, but this immediately opened to a lucid scene of some men entering a into a large barn in the country followed by a truck of military men arriving and rounding them up. I saw a close up of one of the men the soldiers restrained and he was dark, possibly Indian or middle eastern. 
 
 **Post notes:** The uniforms looked like U.S. Army uniforms, but that green-camo design is used in many different countries around the world, including the middle east and Indonesia.  As in every MEX, it is very hard to determine time and place, which can only be deduced by the environment, so I have no idea if this was past, present, or future, but given the state of world affairs, I suspect this scene was current.  The most significant detail of this MEX was how easy it was to enter a lucid alternate location (LAL) after seeing the even the slightest bit of light.  This is in stark contrast to earlier experiences where after significant light I entered into a portal, often through a maze of chaos, fire, stars, archetypal imagery, etc., before arriving at an LAL.  This is the 2nd time such a easy of access to an LAL occurred.  Perhaps it is time I began to try are consciously navigate my LALs.
 
@@ -425,3 +425,30 @@ Why was the man blood-red?  Does it symbolise blood itself? Or was it because re
 The question I wondered was, would it have been possible for me to interfere with what I saw? Could I have changed anything in that MEX? And if so, how could I test whether it had any effect?  And if I could, would that even be a good idea?
 
 I regard this MEX as a successful experiment, in that I was able to direct my ‘portal’ to open to a specific ‘place’, generally.
+
+**Friday, August 27, 2021**
+
+I was moved to listen to the lectures of a young man born in rural Argentina named Matias De Stefano (coincidentally, not far from where I live). About ten years ago, I had heard of this young man who claimed to have been born with full knowledge and memory of how reality actually works. I was impressed that a teenager could have such a well-developed understanding of such things, even if he were making it all up.
+
+Today I decided to listen to him again (his material is on http://gaia.com), and randomly chose one of his 30-minute lectures titled "Atlantis Portal Technology".  I had never heard this lecture before. I tend to be sceptical of any ‘factual’ claims having to do with Atlantis, portals, aliens, and other subjects that lend themselves to a vivid and creative imagination.  
+
+To say I was impressed would be an understatement.  I was shocked at the level of detail that so perfectly matched the details of my MEXes.  Specifically, how well he explained the portal experience and what was really happening.
+
+For example, the image below was grabbed from his video (and annotated by me). 
+
+<img src='../Images/gateway.png'>
+
+He explained how he remembered the creation story of his time, which was: the creator (symbolised by the letter M), created time (H), which resulted in space (S).  I assume these letters were more like symbols representing sophisticated concepts, similar to how Sanskrit or ancient Hebrew characters represent complex concepts.  Together, these three symbols created the concept of creation, which they called *mahas*, for obvious reasons.  But they also had the concept of *saham*, derived from SHM, the reversal of MHS, which is the reverse process of creation, a ‘reaping’ of creation, so to speak.  This is where that which exists returns to the source of its creation.  *Mahas* and *saham* also represent the concepts of the declaration of existence, 'I Am', and one's questioning and discovering their existence, or 'Am I?', according to Matias.
+
+This alone may be just another interesting creation story and belief structure, but the fact that the destination portal happens to be the same star I saw, and the origin star comes from an unknown constellation that looks remarkably similar to the constellation I saw, is a significant coincidence.  Additionally, the imagery he used to describe how the movement from the *portal* (M) to *time* (H) is identical to what I see went I enter the portal. The word ‘portal’ is one we both independently arrived at to describe the experience. 
+
+<img src='../Images/MS_eye.png' style='width:50%'>
+
+Perhaps even more stunning was his explanation that all *presents* (current moments) were created from the originating portal.  In other words, all that ever was, is, or will be, has already been created, and it is the unfolding of time that instantiates them into the physical reality.  Likewise, returning to the portal allows one to see all *presents*, and from where one can choose a reality to travel.  This is a perfectly accurate description of what I have been experiencing.
+
+The strong take-away from this experience is that these MEXes are (most likely) not a purely subjective experience or the result of an old man's brain slipping off the rails of reality, as I sometimes suspected.  
+
+One point Matias made was the significance of water and blood with regard to maintaining a proper relationship with these realities.  I mention this only to bring up the fact that I regularly drink pure water from a contraption I built that keeps the water circulating inside a magnetic field.   I do this because stagnant, pipe-constrained water is more 'dead' than 'alive'... so I bring it back to 'life' a little. This may be a contributing factor to my experiences... just a thought.  Also ‘just a thought’ is how the COVID-19 vaccine destroys blood so effectively, which, if Matias is correct, would surely have a disastrous effect on one’s relationship with these realities, and makes one wonder what other realities the vaccinated may be being put in touch with unknowingly.
+
+
+
