@@ -450,5 +450,27 @@ The strong take-away from this experience is that these MEXes are (most likely) 
 
 One point Matias made was the significance of water and blood with regard to maintaining a proper relationship with these realities.  I mention this only to bring up the fact that I regularly drink pure water from a contraption I built that keeps the water circulating inside a magnetic field.   I do this because stagnant, pipe-constrained water is more 'dead' than 'alive'... so I bring it back to 'life' a little. This may be a contributing factor to my experiences... just a thought.  Also ‘just a thought’ is how the COVID-19 vaccine destroys blood so effectively, which, if Matias is correct, would surely have a disastrous effect on one’s relationship with these realities, and makes one wonder what other realities the vaccinated may be being put in touch with unknowingly.
 
+**Sunday, August 29, AM**
 
+> Never saw the light, but quickly after closing my eyes, the black void became the room I was in, dark and without light.  I looked at my drape and saw it hanging but could make out the design of a temple menorah on it.  This image then changed to Kieth Haring shapes falling or floating or sliding down the drapes.
+
+**Post notes:** The temple menorah is the 7 pointed menorah, as opposed to the 9 pointed Hanukkah menorah.  Not being a Jew, I was only vaguely familiar with the difference in these menorahs.  The 7 point menorah was originally created by Moses when he built his portable tent-church tabernacle in the desert.  Kieth Haring is a famous '80s artist who made his name as a graffiti artist who drew ( in my opinion) spectacularly boring and pointless doodles.
+
+<img src='../Images/curtain.png'>
+
+The effect of the void turning into my room or a room happens occasionally. I assume it is an instance of *proprioception*, where the brain creates an image from data or memory, not from the senses directly, similar to how you can ‘see’ your hand with your eyes close.
+
+The 7 pointed menorah is obviously an ancient and profound symbol, not only for the Jews but elsewhere as well.  Why did this appear on my drapes? And why did symbols of silly and meaningless cartoons follow this?  My first impression was that I was being shown that all symbols, profound or stupid, are just decorations on the curtain that is blocking the light, regardless of whether they are traditional symbols or the always changing ‘new and improved’ symbols.  Does this also suggest that the messengers of these symbols, in this case, Moses and Kieth Haring, are also equally responsible for the ‘blocking the window’, for making the world a bit darker?  This would then suggest that the Torah and subway graffiti are equally profound and/or silly.  From a distant enough perspective, this appears to be true.  Imagine how meaningful you would consider the the mores or beliefs from some form of life on a planet circling one of the infinite number of dots of light is wee in the sky?
+
+**Monday, August 30, 18:00**
+
+> I had difficulty but eventually saw the concentric rings of colour, but this time more purple/blue.  They condensed to a point then became the flames of the optic nerve. I saw some deep blue dots and once saw a deep blue horizontal line, like a crude pencil line. After some moments, the concentric circles stopped, but the flame grew into a field that perpetually moved.  This was the first time I saw 2 colours in the flame, shades of blue inside the violet.
+&nbsp;
+I heard a voice say, "Have you seen the blue light?" I answered "Yes".  The voice then asked, "Can you explain what it is?"
+&nbsp;
+I then saw myself in an Ivy league style classroom holding a clipboard. I was able to “imprint” my concept and understanding of the blue light onto this clipboard.  I handed the clipboard to a classic 50-something professor-like person wearing a tweed jacket. He took the clipboard and said, “Let's see what you have”.  At that moment, my phone rang and jarred me out of this experience.
+
+**Post notes:** It's obvious the school and professor are archetypes in my unconscious of a learned teacher under whom I am studying and who will guide me in my education... whatever that happens to be, which I still have no idea about.
+
+One interesting observation is that rather than go into a portal, as I had before, this time, the point of change was when the flame took on a life of its own, per se... when it was no longer a result of the converging circles.  It was as if the converging circles, dot, and resulting flame was like the spark that created the fire, and once the fire is going, the sparks are no longer needed. In this metaphor, what is the fuel that this ‘fire’ burns upon?
 
