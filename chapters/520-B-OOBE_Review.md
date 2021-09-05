@@ -1,6 +1,10 @@
 <div style='page-break-after: always; break-after: always;'></div>
 
-# OOBE Review
+# Appendix B: OOBE Review
+
+###### Varioes types of OOBE techniques and states
+
+
 
 The subject matter of this book may seem to overlap with one of more types of OOBEs (Out-Of-Body Experiences).  While what is described as a *meta-cognosphere experience* (MEX) in the following pages may sound like yet another form of OOBE or may lead to a traditional OOBE, it is nothing like what is generally understood as an OOBE, at least as I understand them.  Below is a list of of the OOBEs I have personal experience with, and they are listed as examples of what MEX is not.
 

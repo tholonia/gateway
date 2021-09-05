@@ -1,4 +1,4 @@
-Version {!Mon 30 Aug 2021 08:26:01 PM -03 v0.3.3}
+Version {!Sun 05 Sep 2021 01:20:01 AM -03 v0.4.9}
 
 Gateway: Inner Doors to Outer Worlds
 Copyright © 2021 Duncan Stroud
